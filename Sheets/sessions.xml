@@ -38,42 +38,4 @@
             <victoires_imposteur id="Jean Truc" class="Groupe 2">2</victoires_imposteur>
         </personne>
     </groupe>
-    <groupe>
-        <nomgroupe>Lamif</nomgroupe>
-        <personne>
-            <nom id="Abel" class="Groupe 4">Abel</nom>
-            <points id="Abel" class="Groupe 4">0</points>
-            <victoires_mrwhite id="Abel" class="Groupe 4">0</victoires_mrwhite>
-            <victoires_civil id="Abel" class="Groupe 4">0</victoires_civil>
-            <victoires_imposteur id="Abel" class="Groupe 4">0</victoires_imposteur>
-        </personne>
-        <personne>
-            <nom id="Isma&#xEB;l" class="Groupe 4">Isma&#xEB;l</nom>
-            <points id="Isma&#xEB;l" class="Groupe 4">0</points>
-            <victoires_mrwhite id="Isma&#xEB;l" class="Groupe 4">0</victoires_mrwhite>
-            <victoires_civil id="Isma&#xEB;l" class="Groupe 4">2</victoires_civil>
-            <victoires_imposteur id="Isma&#xEB;l" class="Groupe 4">1</victoires_imposteur>
-        </personne>
-        <personne>
-            <nom id="Salom&#xE9;" class="Groupe 4">Salom&#xE9;</nom>
-            <points id="Salom&#xE9;" class="Groupe 4">0</points>
-            <victoires_mrwhite id="Salom&#xE9;" class="Groupe 4">0</victoires_mrwhite>
-            <victoires_civil id="Salom&#xE9;" class="Groupe 4">2</victoires_civil>
-            <victoires_imposteur id="Salom&#xE9;" class="Groupe 4">0</victoires_imposteur>
-        </personne>
-        <personne>
-            <nom id="Papa" class="Groupe 4">Papa</nom>
-            <points id="Papa" class="Groupe 4">10</points>
-            <victoires_mrwhite id="Papa" class="Groupe 4">1</victoires_mrwhite>
-            <victoires_civil id="Papa" class="Groupe 4">1</victoires_civil>
-            <victoires_imposteur id="Papa" class="Groupe 4">0</victoires_imposteur>
-        </personne>
-        <personne>
-            <nom id="Maman" class="Groupe 4">Maman</nom>
-            <points id="Maman" class="Groupe 4">0</points>
-            <victoires_mrwhite id="Maman" class="Groupe 4">0</victoires_mrwhite>
-            <victoires_civil id="Maman" class="Groupe 4">0</victoires_civil>
-            <victoires_imposteur id="Maman" class="Groupe 4">2</victoires_imposteur>
-        </personne>
-    </groupe>
-</sessions>
+    
