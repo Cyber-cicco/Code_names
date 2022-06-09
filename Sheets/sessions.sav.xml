@@ -1,0 +1,157 @@
+<?xml version='1.0' standalone='yes'?>
+<sessions>
+    <groupe>
+        <nomgroupe> Groupe 1</nomgroupe>
+        <personne>
+            <nom id='Burno' class='Groupe 1'>Burno</nom>
+            <points id='Burno' class='Groupe 1'>15</points>
+            <victoires_mrwhite id='Burno' class='Groupe 1'>1</victoires_mrwhite>
+            <victoires_civil id='Burno' class='Groupe 1'>1</victoires_civil>
+            <victoires_imposteur id='Burno' class='Groupe 1'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean-Pierre' class='Groupe 1'>Jean-Pierre</nom>
+            <points id='Jean-Pierre' class='Groupe 1'>17</points>
+            <victoires_mrwhite id='Jean-Pierre' class='Groupe 1'>0</victoires_mrwhite>
+            <victoires_civil id='Jean-Pierre' class='Groupe 1'>2</victoires_civil>
+            <victoires_imposteur id='Jean-Pierre' class='Groupe 1'>1</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Alice' class='Groupe 1'>Alice</nom>
+            <points id='Alice' class='Groupe 1'>10</points>
+            <victoires_mrwhite id='Alice' class='Groupe 1'>0</victoires_mrwhite>
+            <victoires_civil id='Alice' class='Groupe 1'>2</victoires_civil>
+            <victoires_imposteur id='Alice' class='Groupe 1'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean-Rocher' class='Groupe 1'>Jean-Rocher</nom>
+            <points id='Jean-Rocher' class='Groupe 1'>15</points>
+            <victoires_mrwhite id='Jean-Rocher' class='Groupe 1'>1</victoires_mrwhite>
+            <victoires_civil id='Jean-Rocher' class='Groupe 1'>1</victoires_civil>
+            <victoires_imposteur id='Jean-Rocher' class='Groupe 1'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean-Valjean' class='Groupe 1'>JeanValjean</nom>
+            <points id='Jean-Valjean' class='Groupe 1'>14</points>
+            <victoires_mrwhite id='Jean-Valjean' class='Groupe 1'>0</victoires_mrwhite>
+            <victoires_civil id='Jean-Valjean' class='Groupe 1'>0</victoires_civil>
+            <victoires_imposteur id='Jean-Valjean' class='Groupe 1'>2</victoires_imposteur>
+        </personne>
+    </groupe>
+    <groupe>
+        <nomgroupe> Groupe 2</nomgroupe>
+        <personne>
+            <nom id='Jean Castex' class='Groupe 2'>Jean Castex</nom>
+            <points id='Jean Castex' class='Groupe 2'>15</points>
+            <victoires_mrwhite id='Jean Castex' class='Groupe 2'>1</victoires_mrwhite>
+            <victoires_civil id='Jean Castex' class='Groupe 2'>1</victoires_civil>
+            <victoires_imposteur id='Jean Castex' class='Groupe 2'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Pierre Richard' class='Groupe 2'>Pierre Richard</nom>
+            <points id='Pierre Richard' class='Groupe 2'>17</points>
+            <victoires_mrwhite id='Pierre Richard' class='Groupe 2'>0</victoires_mrwhite>
+            <victoires_civil id='Pierre Richard' class='Groupe 2'>2</victoires_civil>
+            <victoires_imposteur id='Pierre Richard' class='Groupe 2'>1</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jacques Chirac' class='Groupe 2'>Jacques Chirac</nom>
+            <points id='Jacques Chirac' class='Groupe 2'>10</points>
+            <victoires_mrwhite id='Jacques Chirac' class='Groupe 2'>0</victoires_mrwhite>
+            <victoires_civil id='Jacques Chirac' class='Groupe 2'>2</victoires_civil>
+            <victoires_imposteur id='Jacques Chirac' class='Groupe 2'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean Cultamaman' class='Groupe 2'>Jean Cultamaman</nom>
+            <points id='Jean Cultamaman' class='Groupe 2'>15</points>
+            <victoires_mrwhite id='Jean Cultamaman' class='Groupe 2'>1</victoires_mrwhite>
+            <victoires_civil id='Jean Cultamaman' class='Groupe 2'>1</victoires_civil>
+            <victoires_imposteur id='Jean Cultamaman' class='Groupe 2'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean Truc' class='Groupe 2'>Jean Truc</nom>
+            <points id='Jean Truc' class='Groupe 2'>14</points>
+            <victoires_mrwhite id='Jean Truc' class='Groupe 2'>0</victoires_mrwhite>
+            <victoires_civil id='Jean Truc' class='Groupe 2'>0</victoires_civil>
+            <victoires_imposteur id='Jean Truc' class='Groupe 2'>2</victoires_imposteur>
+        </personne>
+    </groupe>
+    <groupe>
+        <nomgroupe> Groupe 3</nomgroupe>
+        <personne>
+            <nom id='Antoine' class='Groupe 3'>Antoine</nom>
+            <points id='Antoine' class='Groupe 3'>15</points>
+            <victoires_mrwhite id='Antoine' class='Groupe 3'>1</victoires_mrwhite>
+            <victoires_civil id='Antoine' class='Groupe 3'>1</victoires_civil>
+            <victoires_imposteur id='Antoine' class='Groupe 3'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Jean Lassalle' class='Groupe 3'>Jean Lassalle</nom>
+            <points id='Jean Lassalle' class='Groupe 3'>17</points>
+            <victoires_mrwhite id='Jean Lassalle' class='Groupe 3'>0</victoires_mrwhite>
+            <victoires_civil id='Jean Lassalle' class='Groupe 3'>2</victoires_civil>
+            <victoires_imposteur id='Jean Lassalle' class='Groupe 3'>1</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Alison' class='Groupe 3'>Alison</nom>
+            <points id='Alison' class='Groupe 3'>10</points>
+            <victoires_mrwhite id='Alison' class='Groupe 3'>0</victoires_mrwhite>
+            <victoires_civil id='Alison' class='Groupe 3'>2</victoires_civil>
+            <victoires_imposteur id='Alison' class='Groupe 3'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Mohammed' class='Groupe 3'>Mohammed</nom>
+            <points id='Mohammed' class='Groupe 3'>15</points>
+            <victoires_mrwhite id='Mohammed' class='Groupe 3'>1</victoires_mrwhite>
+            <victoires_civil id='Mohammed' class='Groupe 3'>1</victoires_civil>
+            <victoires_imposteur id='Mohammed' class='Groupe 3'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Marhmoud' class='Groupe 3'>Marhmoud</nom>
+            <points id='Marhmoud' class='Groupe 3'>14</points>
+            <victoires_mrwhite id='Marhmoud' class='Groupe 3'>0</victoires_mrwhite>
+            <victoires_civil id='Marhmoud' class='Groupe 3'>0</victoires_civil>
+            <victoires_imposteur id='Marhmoud' class='Groupe 3'>2</victoires_imposteur>
+        </personne>
+    </groupe>
+    <groupe>
+        <nomgroupe> Groupe 4</nomgroupe>
+        <personne>
+            <nom id='Kilian' class='Groupe 4'>Kilian</nom>
+            <points id='Kilian' class='Groupe 4'>0</points>
+            <victoires_mrwhite id='Kilian' class='Groupe 4'>1</victoires_mrwhite>
+            <victoires_civil id='Kilian' class='Groupe 4'>1</victoires_civil>
+            <victoires_imposteur id='Kilian' class='Groupe 4'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Kevin' class='Groupe 4'>Kevin</nom>
+            <points id='Kevin' class='Groupe 4'>0</points>
+            <victoires_mrwhite id='Kevin' class='Groupe 4'>0</victoires_mrwhite>
+            <victoires_civil id='Kevin' class='Groupe 4'>2</victoires_civil>
+            <victoires_imposteur id='Kevin' class='Groupe 4'>1</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Dylan' class='Groupe 4'>Dylan</nom>
+            <points id='Dylan' class='Groupe 4'>0</points>
+            <victoires_mrwhite id='Dylan' class='Groupe 4'>0</victoires_mrwhite>
+            <victoires_civil id='Dylan' class='Groupe 4'>2</victoires_civil>
+            <victoires_imposteur id='Dylan' class='Groupe 4'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Marvin' class='Groupe 4'>Marvin</nom>
+            <points id='Marvin' class='Groupe 4'>0</points>
+            <victoires_mrwhite id='Marvin' class='Groupe 4'>1</victoires_mrwhite>
+            <victoires_civil id='Marvin' class='Groupe 4'>1</victoires_civil>
+            <victoires_imposteur id='Marvin' class='Groupe 4'>0</victoires_imposteur>
+        </personne>
+        <personne>
+            <nom id='Celestin' class='Groupe 4'>Celestin</nom>
+            <points id='Celestin' class='Groupe 4'>0</points>
+            <victoires_mrwhite id='Celestin' class='Groupe 4'>0</victoires_mrwhite>
+            <victoires_civil id='Celestin' class='Groupe 4'>0</victoires_civil>
+            <victoires_imposteur id='Celestin' class='Groupe 4'>2</victoires_imposteur>
+        </personne>
+    </groupe>
+</sessions>
+
+
